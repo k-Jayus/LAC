@@ -1,9 +1,6 @@
-# Dual Manifold Framework: Feature Inversion with Semantic Decoupling
+# Adjoint Inversion Reveals Holographic Superposition and Destructive Interference in CNN Classiffers
 
-<!-- TODO: replace with actual paper title, authors, and venue badges -->
-> **[NeurIPS 2024]** *[Paper Title]* · [Author Names]
->
-> [[Paper]](#) · [[Project Page]](#) · [[Pretrained Weights]](#pretrained-weights)
+
 
 ---
 
